@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Loveseat Sofa",
+    "image": "/Images/product-1.png",
+    "description": "this is our product",
+    "price": 199.00,
+    "rate": 5
+  },
+  {
+    "id": 2,
+    "title": "Table Lamp",
+    "image": "/Images/product-2.png",
+    "description": "this is our product",
+    "price": 39.99,
+    "rate": 4
+  },
+  {
+    "id": 3,
+    "title": "Tabel Lamp",
+    "image": "/Images/product-3.png",
+    "description": "this is our product",
+    "price": 19.00,
+    "rate": 5
+  },
+  {
+    "id": 4,
+    "title": "Bamboo basket",
+    "image": "/Images/product-4.png",
+    "description": "this is our product",
+    "price": 9.99,
+    "rate": 5
+  },
+  {
+    "id": 5,
+    "title": "White Drawer unit",
+    "image": "/Images/product-5.png",
+    "description": "this is our product",
+    "price": 89.99,
+    "rate": 5
+  },
+  {
+    "id": 6,
+    "title": "Off-white Pillow",
+    "image": "/Images/product-6.png",
+    "description": "this is our product",
+    "price": 20.50,
+    "rate": 5
+  },
+  {
+    "id": 7,
+    "title": "Black Brow Side table",
+    "image": "/Images/product-7.png",
+    "description": "this is our product",
+    "price": 16.99,
+    "rate": 5
+  },
+  {
+    "id": 8,
+    "title": "Light Beige Pillow",
+    "image": "/Images/product-8.png",
+    "description": "this is our product",
+    "price": 24.99,
+    "rate": 5
+  },
+  {
+    "id": 9,
+    "title": "Black Tray table",
+    "image": "/Images/product-9.png",
+    "description": "this is our product",
+    "price": 19.99,
+    "rate": 5
+  },
+  {
+    "id": 10,
+    "title": "Tabel Lamb",
+    "image": "/Images/product-10.png",
+    "description": "this is our product",
+    "price": 19.00,
+    "rate": 5
+  },
+  {
+    "id": 11,
+    "title": "Toasted",
+    "image": "/Images/product-11.png",
+    "description": "this is our product",
+    "price": 224.99,
+    "rate": 5
+  },
+  {
+    "id": 12,
+    "title": "Luxury Sofa",
+    "image": "/Images/Paste image_3.png",
+    "description": "this is our product",
+    "price": 229.00,
+    "rate": 5
+  }
+]
