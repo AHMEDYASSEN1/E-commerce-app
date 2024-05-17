@@ -38,7 +38,7 @@ const page = () => {
     const formIsValid =
       formInputsValidity.emailIsValid && formInputsValidity.passwordIsValid;
 
-    if (formIsValid) {
+    if (formIsValid && typeof window !== 'undefined') {
       try {
         await signInWithEmailAndPassword(auth, email, password);
         router.push("/");
